@@ -1,6 +1,6 @@
 .env
 secrets.conf
-*.swp
+.Object_2_0.16mm_ABS_Fast_27m14s.gcode.b64.swp
 *.tmp
 printer-[0-9]*_[0-9]*.cfg
 *.bak
